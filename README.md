@@ -8,8 +8,8 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando atualização e 
 
 - **Linguagens de Programação**: Go, C#, JavaScript
 - **Frameworks e Bibliotecas**: Node.js, ASP.NET Core
-- **Banco de Dados**: MySQL
-- **Outras Tecnologias**: gRPC, Nginx, GraphQL, Docker
+- **Banco de Dados**: MySQL, SQLServer, Oracle, Mongo
+- **Outras Tecnologias**: gRPC, Nginx, GraphQL, Docker, AWS, RabbitMQ, kubernetes
 
 ## 🔧 Projetos Destacados
 
