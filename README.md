@@ -22,7 +22,7 @@ Aqui estão alguns dos meus projetos que demonstram minhas habilidades:
 - **Tecnologias**: Go, RabbitMQ
 - **Destaques**: Implementação de filas com RabbitMQ para processamento assíncrono de pedidos.
 
-### [GRPC](https://github.com/Msaorc/GRPC)
+### [Chat-GRPC](https://github.com/Msaorc/Chat-GRPC)
 
 *Implementação de comunicação utilizando gRPC.*
 
